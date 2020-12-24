@@ -1,0 +1,2081 @@
+array(297) {
+  [0]=>
+  array(2) {
+    ["text"]=>
+    string(109) "Производители мяса ищут альтернативные стратегии развития"
+    ["url"]=>
+    string(34)  "https://www.ros-net.ru/alternativnye-puti-razvitiya.html"
+  }
+  [1]=>
+  array(2) {
+    ["text"]=>
+    string(0) ""
+    ["url"]=>
+    string(34)  "https://www.ros-net.ru/alternativnye-puti-razvitiya.html"
+  }
+  [2]=>
+  array(2) {
+    ["text"]=>
+    string(89) "Объемы мясопереработки снизятся на 7-10 процентов"
+    ["url"]=>
+    string(41)  "https://www.ros-net.ru/obiomy-myasopererabotki-snijayutsya.html"
+  }
+  [3]=>
+  array(2) {
+    ["text"]=>
+    string(124) "Регионы ДФО получат субсидии на животноводство: кому сколько дадут?"
+    ["url"]=>
+    string(28)  "https://www.ros-net.ru/subsidii-dlya-primorya.html"
+  }
+  [4]=>
+  array(2) {
+    ["text"]=>
+    string(93) "Зима негативно сказалась на работе мясокомбинатов"
+    ["url"]=>
+    string(55)  "https://www.ros-net.ru/zima-negativno-skazalas-na-rabote-myasokombinatov.html"
+  }
+  [5]=>
+  array(2) {
+    ["text"]=>
+    string(135) "Из-за АЧС в этом году прогнозируется уменьшение поголовья свиней на треть"
+    ["url"]=>
+    string(31)  "https://www.ros-net.ru/afrikanskaya-chuma-sviney.html"
+  }
+  [6]=>
+  array(2) {
+    ["text"]=>
+    string(124) "Половина колбас в РФ почти не содержит мяса, сообщают производители"
+    ["url"]=>
+    string(39)  "https://www.ros-net.ru/polovina-koblas-ne-soderjit-myasa.html"
+  }
+  [7]=>
+  array(2) {
+    ["text"]=>
+    string(108) "Фермеры Ленобласти увеличили производство мяса почти на 50%"
+    ["url"]=>
+    string(27)  "https://www.ros-net.ru/fermery-lenoblasti-50.html"
+  }
+  [8]=>
+  array(2) {
+    ["text"]=>
+    string(139) "За I квартал производство свиней на убой в России увеличилось более чем на 10%"
+    ["url"]=>
+    string(47)  "https://www.ros-net.ru/I-kvartal-proizvodstvo-sviney-uvelichilos.html"
+  }
+  [9]=>
+  array(2) {
+    ["text"]=>
+    string(139) "МСХ США ожидает роста мирового производства говядины и телятины в этом году"
+    ["url"]=>
+    string(37)  "https://www.ros-net.ru/usa-rost-proizvodstva-govyadiny.html"
+  }
+  [10]=>
+  array(2) {
+    ["text"]=>
+    string(136) "Челябинская область вышла на пятое место в стране по производству свинины"
+    ["url"]=>
+    string(61)  "https://www.ros-net.ru/chelyabinskaya-oblast-pyatoe-mesto-proizvodstvo-svininy.html"
+  }
+  [11]=>
+  array(2) {
+    ["text"]=>
+    string(127) "СМЕ: Прогноз на производство свинины пересмотрен в сторону понижения"
+    ["url"]=>
+    string(37)  "https://www.ros-net.ru/prognoz-na-proizvodstvo-svininy.html"
+  }
+  [12]=>
+  array(2) {
+    ["text"]=>
+    string(83) "Российская продукция "Халяль" поедет в Кувейт"
+    ["url"]=>
+    string(19)  "https://www.ros-net.ru/russian-halal.html"
+  }
+  [13]=>
+  array(2) {
+    ["text"]=>
+    string(100) "В Башкирии построят свинокомплекс и комбикормовый цех"
+    ["url"]=>
+    string(31)  "https://www.ros-net.ru/svinokompleks-v-bashkirii.html"
+  }
+  [14]=>
+  array(2) {
+    ["text"]=>
+    string(79) "В Сибири разработали анализатор цвета мяса"
+    ["url"]=>
+    string(28)  "https://www.ros-net.ru/analizator-cveta-myasa.html"
+  }
+  [15]=>
+  array(2) {
+    ["text"]=>
+    string(59) "Мираторг: первичное предложение"
+    ["url"]=>
+    string(37)  "https://www.ros-net.ru/miratorg-pervichnoe-predlojenie.html"
+  }
+  [16]=>
+  array(2) {
+    ["text"]=>
+    string(110) "В российской колбасе станет на треть меньше импортного мяса"
+    ["url"]=>
+    string(39)  "https://www.ros-net.ru/menshe-importnogo-myasa-v-kolbase.html"
+  }
+  [17]=>
+  array(2) {
+    ["text"]=>
+    string(85) "Обзор свиного рынка ЕС: Котировки нестабильны "
+    ["url"]=>
+    string(28)  "https://www.ros-net.ru/obzor-svinogo-rinka-es.html"
+  }
+  [18]=>
+  array(2) {
+    ["text"]=>
+    string(121) "Мясную отрасль в Казахстане помогут поднять иностранные компании"
+    ["url"]=>
+    string(35)  "https://www.ros-net.ru/myasnaya-otrasl-v-kazakhstane.html"
+  }
+  [19]=>
+  array(2) {
+    ["text"]=>
+    string(0) ""
+    ["url"]=>
+    string(35)  "https://www.ros-net.ru/myasnaya-otrasl-v-kazakhstane.html"
+  }
+  [20]=>
+  array(2) {
+    ["text"]=>
+    string(98) "Воронежская область: Курс на развитие животноводства"
+    ["url"]=>
+    string(40)  "https://www.ros-net.ru/voronejskaya-oblast-jivotnovodstvo.html"
+  }
+  [21]=>
+  array(2) {
+    ["text"]=>
+    string(97) "Американское производство мяса будет расти в 2017 году"
+    ["url"]=>
+    string(36)  "https://www.ros-net.ru/amerikanskoe-proizvodstvo-2017.html"
+  }
+  [22]=>
+  array(2) {
+    ["text"]=>
+    string(83) "В России снова увеличилось производство мяса"
+    ["url"]=>
+    string(45)  "https://www.ros-net.ru/v-rossii-uvelichilos-proizvodstvo-myasa.html"
+  }
+  [23]=>
+  array(2) {
+    ["text"]=>
+    string(87) "Южный Урал удивляет показателями по мясу и яйцу"
+    ["url"]=>
+    string(31)  "https://www.ros-net.ru/uzhniy-ural-myaso-i-yayco.html"
+  }
+  [24]=>
+  array(2) {
+    ["text"]=>
+    string(161) "Свинокомплекс производительностью 7 тыс. тонн мяса в год построят в Воронежской области"
+    ["url"]=>
+    string(28)  "https://www.ros-net.ru/svinokompleks-7000tonn.html"
+  }
+  [25]=>
+  array(2) {
+    ["text"]=>
+    string(110) "На развитие ферм в Ленобласти направлено более 100 млн рублей"
+    ["url"]=>
+    string(36)  "https://www.ros-net.ru/100mln-rubley-na-razvitie-ferm.html"
+  }
+  [26]=>
+  array(2) {
+    ["text"]=>
+    string(113) "В Пакистане открыт завод по производству халальной продукции"
+    ["url"]=>
+    string(29)  "https://www.ros-net.ru/zavod-hahal-v-pakistane.html"
+  }
+  [27]=>
+  array(2) {
+    ["text"]=>
+    string(106) "Литва не спешит радоваться смягчению российского эмбарго"
+    ["url"]=>
+    string(30)  "https://www.ros-net.ru/litva-rossiyskoe-imbargo.html"
+  }
+  [28]=>
+  array(2) {
+    ["text"]=>
+    string(132) "Россия заинтересована в выделении Евросоюзом квоты на ввоз мяса и птицы"
+    ["url"]=>
+    string(56)  "https://www.ros-net.ru/kvoty-dlya-myasa-i-pticy-ot-evrosoyuza-dlya-rossii.html"
+  }
+  [29]=>
+  array(2) {
+    ["text"]=>
+    string(138) "В мясной ассоциации заявили о рекордном росте производства свинины и птицы"
+    ["url"]=>
+    string(36)  "https://www.ros-net.ru/rost-svininy-ii-pticy-v-rossii.html"
+  }
+  [30]=>
+  array(2) {
+    ["text"]=>
+    string(118) "Производство свинины в Приморье может увеличиться в десятки раз"
+    ["url"]=>
+    string(49)  "https://www.ros-net.ru/uvelichenie-proizvodstva-svininy-v-primorie.html"
+  }
+  [31]=>
+  array(2) {
+    ["text"]=>
+    string(88) "Американский экспорт говядины продолжает расти"
+    ["url"]=>
+    string(41)  "https://www.ros-net.ru/rost-eksporta-amerikansoy-govyadiny.html"
+  }
+  [32]=>
+  array(2) {
+    ["text"]=>
+    string(116) "Министр сельского хозяйства РФ о ситуации после отмены эмбарго"
+    ["url"]=>
+    string(64)  "https://www.ros-net.ru/ministr-selskogo-hozaustva-o-situacii-posle-otmeny-embargo.html"
+  }
+  [33]=>
+  array(2) {
+    ["text"]=>
+    string(79) "Ввоз в РФ племенного скота освободят от НДС"
+    ["url"]=>
+    string(44)  "https://www.ros-net.ru/vvoz-plemennogo-skota-osvobodya-ot-nds.html"
+  }
+  [34]=>
+  array(2) {
+    ["text"]=>
+    string(88) "Объём производства свинины в России бьет рекорд"
+    ["url"]=>
+    string(53)  "https://www.ros-net.ru/obyom-proizvodstva-svininy-v-rossii-byot-rekord.html"
+  }
+  [35]=>
+  array(2) {
+    ["text"]=>
+    string(102) "Производство мяса птицы в России выросло до 386,2 тыс.тонн"
+    ["url"]=>
+    string(47)  "https://www.ros-net.ru/proizvodstvo-myasa-pticy-v-rossii-vyroslo.html"
+  }
+  [36]=>
+  array(2) {
+    ["text"]=>
+    string(92) "Объём производства говядины в России в апреле 2016г."
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/obyom-proizvodstva-govyadiny-v-rossii-v-aprele-2016.html"
+  }
+  [37]=>
+  array(2) {
+    ["text"]=>
+    string(95) "Производство мяса в России продолжает наращиваться"
+    ["url"]=>
+    string(59)  "https://www.ros-net.ru/proizvodstvo-myasa-v-rossii-prodoljaet-naraschivatsya.html"
+  }
+  [38]=>
+  array(2) {
+    ["text"]=>
+    string(154) "В Лужском районе построят самую крупную в Европе ферму по производству мяса кролика"
+    ["url"]=>
+    string(64)  "https://www.ros-net.ru/krupneyshaya-v-vevrope-ferma-po-proizvodstvu-myasa-krolika.html"
+  }
+  [39]=>
+  array(2) {
+    ["text"]=>
+    string(101) "Россия не будет первой поднимать вопрос снятия санкций"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/rossiya-ne-budet-pervoy-podnimat-vopros-snyatiya-sankciy.html"
+  }
+  [40]=>
+  array(2) {
+    ["text"]=>
+    string(102) "Сотрудничество «Черкизово» и Минэкономразвития России"
+    ["url"]=>
+    string(60)  "https://www.ros-net.ru/sotrudnichestvo-cherkizovo-o-minekonomrazvitiya-rossii.html"
+  }
+  [41]=>
+  array(2) {
+    ["text"]=>
+    string(113) "На импорт украинской курятины фермеры ЕС ответят забастовкой"
+    ["url"]=>
+    string(32)  "https://www.ros-net.ru/import-ukrainsoy-kuryatiny.html"
+  }
+  [42]=>
+  array(2) {
+    ["text"]=>
+    string(113) "Товары для акций: новые правила работы поставщиков и торговли"
+    ["url"]=>
+    string(30)  "https://www.ros-net.ru/novie-pravila-riteylerov.html"
+  }
+  [43]=>
+  array(2) {
+    ["text"]=>
+    string(95) "Что происходит с мясным рынком? Воронежская область"
+    ["url"]=>
+    string(58)  "https://www.ros-net.ru/chto-proishodit-s-myasnym-rynkom-voronejskaya-oblast.html"
+  }
+  [44]=>
+  array(2) {
+    ["text"]=>
+    string(133) "Россельхознадзор запретил поставки мяса с пяти белорусских предприятий"
+    ["url"]=>
+    string(44)  "https://www.ros-net.ru/zapret-na-postavki-myasa-iz-belorussii.html"
+  }
+  [45]=>
+  array(2) {
+    ["text"]=>
+    string(133) "Развитие сельского хозяйства. Перспективы и эффективность господдержки"
+    ["url"]=>
+    string(74)  "https://www.ros-net.ru/razvitie-selskogo-hozyaystva-perspektivy-i-effektivnost-gospodderjki.html"
+  }
+  [46]=>
+  array(2) {
+    ["text"]=>
+    string(110) "От НДС освободили реализацию и ввоз племенных скота и птицы "
+    ["url"]=>
+    string(67)  "https://www.ros-net.ru/ot-nds-osvobodili-vvoz-i-realizaciyu-plemennogo-skota-i-pticy.html"
+  }
+  [47]=>
+  array(2) {
+    ["text"]=>
+    string(126) "Новые свинокомплексы в Челябинской области стоимостью 10 млрд рублей"
+    ["url"]=>
+    string(49)  "https://www.ros-net.ru/novye-svinokomleksy-v-chelyabinskoy-oblasti.html"
+  }
+  [48]=>
+  array(2) {
+    ["text"]=>
+    string(116) "Производство мясной и молочной продукции в РФ продолжает расти"
+    ["url"]=>
+    string(40)  "https://www.ros-net.ru/rost-myasnoy-i-molochnoy-produkcii.html"
+  }
+  [49]=>
+  array(2) {
+    ["text"]=>
+    string(134) "Производителей мяса из РФ заинтероесованы в поставке мяса в страны АСЕАН"
+    ["url"]=>
+    string(30)  "https://www.ros-net.ru/rossiyskoe-myaso-v-asean.html"
+  }
+  [50]=>
+  array(2) {
+    ["text"]=>
+    string(107) "Новый мясоперерабатывающий комплекс в Ростовской области"
+    ["url"]=>
+    string(65)  "https://www.ros-net.ru/noviy-myasopererabatyvayushiy-kompleks-v-rostovskoy-oblasti.html"
+  }
+  [51]=>
+  array(2) {
+    ["text"]=>
+    string(108) "Перечень подпадающих под продэмбарго товаров не изменится"
+    ["url"]=>
+    string(51)  "https://www.ros-net.ru/perechen-popadayushih-pod-prodembargo-tovarov.html"
+  }
+  [52]=>
+  array(2) {
+    ["text"]=>
+    string(98) "Мировое производство мяса птицы будет расти умеренно"
+    ["url"]=>
+    string(50)  "https://www.ros-net.ru/mirovoe-proizvodstvo-myasa-pticy-budet-rasti.html"
+  }
+  [53]=>
+  array(2) {
+    ["text"]=>
+    string(123) "Контроль ввоза санкционной продукции в условиях продления эмбарго"
+    ["url"]=>
+    string(72)  "https://www.ros-net.ru/kontrol-vvoza-sankcionnoy-produkcii-v-usloviyah-prodleniya-embargo.html"
+  }
+  [54]=>
+  array(2) {
+    ["text"]=>
+    string(85) "В Приморье запускают два новых свинокомплекса"
+    ["url"]=>
+    string(39)  "https://www.ros-net.ru/2-novyh-svinokompleksa-v-primorye.html"
+  }
+  [55]=>
+  array(2) {
+    ["text"]=>
+    string(106) "Надежда на снятие санкций на поставки говядины из Мексики"
+    ["url"]=>
+    string(54)  "https://www.ros-net.ru/snyatie-sankciy-na-postavki-govyadiny-iz-meksiki.html"
+  }
+  [56]=>
+  array(2) {
+    ["text"]=>
+    string(110) "Что мешает развиваться животноводству в сибирских деревнях"
+    ["url"]=>
+    string(30)  "https://www.ros-net.ru/zhivitnovodstvo-v-sibiri.html"
+  }
+  [57]=>
+  array(2) {
+    ["text"]=>
+    string(131) "ЕС не ожидает полного восстановления объемов поставок свинины в Россию"
+    ["url"]=>
+    string(51)  "https://www.ros-net.ru/vosstanovlenie-obiomov-postavok-svininy-iz-es.html"
+  }
+  [58]=>
+  array(2) {
+    ["text"]=>
+    string(106) "Россия и Ливан подпишут договор по АПК уже в нынешнем году"
+    ["url"]=>
+    string(33)  "https://www.ros-net.ru/rossia-livan-dogovor-po-apk.html"
+  }
+  [59]=>
+  array(2) {
+    ["text"]=>
+    string(136) "Европейский Союз выделил €3 млн на развитие сельского хозяйства в Украине"
+    ["url"]=>
+    string(56)  "https://www.ros-net.ru/3-mln-evro-na-razvitie-selskogo-hozyaystva-ukrainy.html"
+  }
+  [60]=>
+  array(2) {
+    ["text"]=>
+    string(141) "В Минсельхозе нацелены на строительство в Крыму крупных молочных комплексов"
+    ["url"]=>
+    string(46)  "https://www.ros-net.ru/stroitelstvo-v-krimu-molochnyh-komleksov.html"
+  }
+  [61]=>
+  array(2) {
+    ["text"]=>
+    string(76) "За «Докторскую» не по ГОСТу введут штрафы"
+    ["url"]=>
+    string(47)  "https://www.ros-net.ru/shtrafy-za-doktorskuyu-kolbasu-ne-po-gost.html"
+  }
+  [62]=>
+  array(2) {
+    ["text"]=>
+    string(101) "Перспективы роста для американского говяжьего сектора"
+    ["url"]=>
+    string(55)  "https://www.ros-net.ru/perspektivy-rosta-amerikanskogo-govyajego-sektora.html"
+  }
+  [63]=>
+  array(2) {
+    ["text"]=>
+    string(82) "Рынок мясопереработки обозначил точки роста"
+    ["url"]=>
+    string(52)  "https://www.ros-net.ru/rynok-myasopererabotki-oboznachil-tochki-rosta.html"
+  }
+  [64]=>
+  array(2) {
+    ["text"]=>
+    string(123) "Германия намерена поднять вопрос о снятии российского продэмбарго"
+    ["url"]=>
+    string(37)  "https://www.ros-net.ru/germaniya-o-snyatii-prodembargo.html"
+  }
+  [65]=>
+  array(2) {
+    ["text"]=>
+    string(54) "Будет ли снижение цен на мясо?"
+    ["url"]=>
+    string(36)  "https://www.ros-net.ru/budet-li-snijenie-cen-na-myaso.html"
+  }
+  [66]=>
+  array(2) {
+    ["text"]=>
+    string(82) "Обзор свиного рынка ЕС: Рынки сбалансированы"
+    ["url"]=>
+    string(49)  "https://www.ros-net.ru/obzor-svinogo-rynka-es-rynki-sbalansirovany.html"
+  }
+  [67]=>
+  array(2) {
+    ["text"]=>
+    string(101) "Почему Индия стала мировым лидером в экспорте говядины"
+    ["url"]=>
+    string(46)  "https://www.ros-net.ru/india-mirovoy-lider-po-exportu-govyadiny.html"
+  }
+  [68]=>
+  array(2) {
+    ["text"]=>
+    string(0) ""
+    ["url"]=>
+    string(46)  "https://www.ros-net.ru/india-mirovoy-lider-po-exportu-govyadiny.html"
+  }
+  [69]=>
+  array(2) {
+    ["text"]=>
+    string(72) "Обзор рынка свиней в США на 12 августа 2016"
+    ["url"]=>
+    string(38)  "https://www.ros-net.ru/obzor-rynka-sviney-usa-12avgusta.html"
+  }
+  [70]=>
+  array(2) {
+    ["text"]=>
+    string(76) "Обзор рынка говядины в США на 12 августа 2016"
+    ["url"]=>
+    string(41)  "https://www.ros-net.ru/obzor-rynka-govyadiny-usa-12avgusta.html"
+  }
+  [71]=>
+  array(2) {
+    ["text"]=>
+    string(93) "Какие меры предпринимать, если обнаружен вирус АЧС"
+    ["url"]=>
+    string(48)  "https://www.ros-net.ru/kakie-mery-predprinyat-esli-obnarujen-achs.html"
+  }
+  [72]=>
+  array(2) {
+    ["text"]=>
+    string(122) "Животным вводят вакцины вместо антибиотиков. Каковы преимущества?"
+    ["url"]=>
+    string(33)  "https://www.ros-net.ru/vakciny-vmesto-antibiotikov.html"
+  }
+  [73]=>
+  array(2) {
+    ["text"]=>
+    string(135) "С чем связано падение производства мяса и молока в Волгоградской области "
+    ["url"]=>
+    string(65)  "https://www.ros-net.ru/padenie-proizvodstva-myasa-i-moloka-v-volgogranskoy-oblasti.html"
+  }
+  [74]=>
+  array(2) {
+    ["text"]=>
+    string(102) "Борьба с санкционными продуктами в 2017 году продолжится?"
+    ["url"]=>
+    string(44)  "https://www.ros-net.ru/borba-s-sankcionnymi-produktami-v-2017.html"
+  }
+  [75]=>
+  array(2) {
+    ["text"]=>
+    string(0) ""
+    ["url"]=>
+    string(44)  "https://www.ros-net.ru/borba-s-sankcionnymi-produktami-v-2017.html"
+  }
+  [76]=>
+  array(2) {
+    ["text"]=>
+    string(95) "Эскпорт свинины из Великобритании продолжает расти"
+    ["url"]=>
+    string(44)  "https://www.ros-net.ru/rost-exporta-svininy-iz-velikobritanii.html"
+  }
+  [77]=>
+  array(2) {
+    ["text"]=>
+    string(116) "Уголовная ответственность грозит за реализацию краденого мяса"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/ugolovnaya-otvetstvennost-za-realizaciyu-kradenogo-myasa.html"
+  }
+  [78]=>
+  array(2) {
+    ["text"]=>
+    string(78) "Отмена санкций против РФ со стороны Польши"
+    ["url"]=>
+    string(48)  "https://www.ros-net.ru/otmena-sankciy-protiv-RF-so-storony-Polshi.html"
+  }
+  [79]=>
+  array(2) {
+    ["text"]=>
+    string(119) "Почему необходимо развивать производство мяса говядины в кризис"
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/pochemu-vajno-razvivat-proizvodstvo-myasa-govyadiny.html"
+  }
+  [80]=>
+  array(2) {
+    ["text"]=>
+    string(99) "Новый животноводческий парк в Приморье. Большие планы"
+    ["url"]=>
+    string(45)  "https://www.ros-net.ru/noviy-jivotnovodcheskiy-park-v-Primorie.html"
+  }
+  [81]=>
+  array(2) {
+    ["text"]=>
+    string(71) "Что нам готовит новый Закон о торговле?"
+    ["url"]=>
+    string(28)  "https://www.ros-net.ru/noviy-zakon-o-torgovle.html"
+  }
+  [82]=>
+  array(2) {
+    ["text"]=>
+    string(0) ""
+    ["url"]=>
+    string(28)  "https://www.ros-net.ru/noviy-zakon-o-torgovle.html"
+  }
+  [83]=>
+  array(2) {
+    ["text"]=>
+    string(129) "Как повлияет снижение цен на корма на производство мяса в США в 2017 году"
+    ["url"]=>
+    string(70)  "https://www.ros-net.ru/kak-povliyaet-snijenie-tsen-na-korma-na-proizvodstvo-myasa-v-usa.html"
+  }
+  [84]=>
+  array(2) {
+    ["text"]=>
+    string(109) "В России быстро растет производство мяса. С чем это связано?"
+    ["url"]=>
+    string(47)  "https://www.ros-net.ru/v-rossii-bystro-rastet-proizvodstvo-myasa.html"
+  }
+  [85]=>
+  array(2) {
+    ["text"]=>
+    string(100) "Причиной подорожания свинины в России стала АЧС и жара"
+    ["url"]=>
+    string(56)  "https://www.ros-net.ru/prichinoy-podorozhaniya-snininy-stala-achs-i-zhara.html"
+  }
+  [86]=>
+  array(2) {
+    ["text"]=>
+    string(116) "Как строится новый цех по забою свиней в Белоруссии в Боровичах"
+    ["url"]=>
+    string(60)  "https://www.ros-net.ru/kak-stroitsya-noviy-tseh-po-zaboyu-sviney-v-belorussii.html"
+  }
+  [87]=>
+  array(2) {
+    ["text"]=>
+    string(94) "Рост экспорта свинины из Германии устойчиво растет"
+    ["url"]=>
+    string(37)  "https://www.ros-net.ru/rost-exporta-iz-germanii-rastet.html"
+  }
+  [88]=>
+  array(2) {
+    ["text"]=>
+    string(133) "Борьба с продажей мяса на трассах Новосибирска в связи с сибирской язвой"
+    ["url"]=>
+    string(52)  "https://www.ros-net.ru/borba-s-prodajey-myasa-na-trassah-novosobirska.html"
+  }
+  [89]=>
+  array(2) {
+    ["text"]=>
+    string(0) ""
+    ["url"]=>
+    string(52)  "https://www.ros-net.ru/borba-s-prodajey-myasa-na-trassah-novosobirska.html"
+  }
+  [90]=>
+  array(2) {
+    ["text"]=>
+    string(106) "Цены на комбикорма для свиней в России в июле 2016 г. выросли"
+    ["url"]=>
+    string(66)  "https://www.ros-net.ru/ceny-na-kombikorma-dlya-sviney-v-rossii-vyrosli-v-iyule-2016.html"
+  }
+  [91]=>
+  array(2) {
+    ["text"]=>
+    string(106) "В Вологодской области перестанут закупать импортное мясо"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/v-vologodskoy-oblasti-perestanut-zakupat-importnoe-myaso.html"
+  }
+  [92]=>
+  array(2) {
+    ["text"]=>
+    string(107) "С чем связан спрос на свежую свинину в ЮАР. Прогноз на 10 лет"
+    ["url"]=>
+    string(36)  "https://www.ros-net.ru/spros-na-svejuyu-svininu-v-uar.html"
+  }
+  [93]=>
+  array(2) {
+    ["text"]=>
+    string(81) "Обзор рынка скота на 2 сентября 2016 года в США "
+    ["url"]=>
+    string(41)  "https://www.ros-net.ru/obzor-rynka-skota-v-usa-2-september.html"
+  }
+  [94]=>
+  array(2) {
+    ["text"]=>
+    string(85) "Обзор свиного рынка на 2 сентября 2016 года в США "
+    ["url"]=>
+    string(43)  "https://www.ros-net.ru/obzor-rynka-svininy-v-usa-2-september.html"
+  }
+  [95]=>
+  array(2) {
+    ["text"]=>
+    string(103) "Влияет ли гуманное обращение со скотом на качество мяса?"
+    ["url"]=>
+    string(66)  "https://www.ros-net.ru/vliyaet-li-gumannoe-obraschenie-so-skotom-na-kachestvo-myasa.html"
+  }
+  [96]=>
+  array(2) {
+    ["text"]=>
+    string(0) ""
+    ["url"]=>
+    string(66)  "https://www.ros-net.ru/vliyaet-li-gumannoe-obraschenie-so-skotom-na-kachestvo-myasa.html"
+  }
+  [97]=>
+  array(2) {
+    ["text"]=>
+    string(106) "Оценка мясного рынка России в период эмбарго. Конкуренция"
+    ["url"]=>
+    string(51)  "https://www.ros-net.ru/ocenka-myzsnogo-rynka-rossii-v-period-embargo.html"
+  }
+  [98]=>
+  array(2) {
+    ["text"]=>
+    string(97) "Обзор рынка свиней за неделю - данные на 12 сентября 2016"
+    ["url"]=>
+    string(52)  "https://www.ros-net.ru/obzor-rynka-sviney-za-nedelyu-na-12-sentyabrya.html"
+  }
+  [99]=>
+  array(2) {
+    ["text"]=>
+    string(91) "Обзор рынка КРС за неделю - данные на 12 сентября 2016"
+    ["url"]=>
+    string(51)  "https://www.ros-net.ru/obzor-rynka-skota-za-nedelyu-na-12-sentyabrya.html"
+  }
+  [100]=>
+  array(2) {
+    ["text"]=>
+    string(121) "Auchan планирует открыть первый в России мясоперерабатывающий завод"
+    ["url"]=>
+    string(75)  "https://www.ros-net.ru/auchan-planiruet-otkryt-v-rossii-perviy-myasopererabativayushiy-zavod.html"
+  }
+  [101]=>
+  array(2) {
+    ["text"]=>
+    string(102) "Сельское хозяйство обеспечивает рост экономики России "
+    ["url"]=>
+    string(60)  "https://www.ros-net.ru/selskoe-hozyaystvo-obespechivaet-rost-ekonomiki-rossii.html"
+  }
+  [102]=>
+  array(2) {
+    ["text"]=>
+    string(118) "Экспорт отечественных продуктов на внешние рынки увеличивается"
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/exsport-produkcii-na-vneshnie-rinki-uvelichivaetsya.html"
+  }
+  [103]=>
+  array(2) {
+    ["text"]=>
+    string(0) ""
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/exsport-produkcii-na-vneshnie-rinki-uvelichivaetsya.html"
+  }
+  [104]=>
+  array(2) {
+    ["text"]=>
+    string(118) "В Белгородской области впервые выросло производство мяса в 7 раз"
+    ["url"]=>
+    string(63)  "https://www.ros-net.ru/v-belgorodskoy-oblasti-vyroslo-proizvodstvo-myasa-v-7-raz.html"
+  }
+  [105]=>
+  array(2) {
+    ["text"]=>
+    string(108) "Обзор свиного рынка в Евросоюзе. Котировки показывают рост"
+    ["url"]=>
+    string(55)  "https://www.ros-net.ru/obzor-svinogo-rynka-es-kotirovki-pokazyvayut-rost.html"
+  }
+  [106]=>
+  array(2) {
+    ["text"]=>
+    string(128) "Темы и итоги общего собрания в Национальном Союзе Мясопереработчиков"
+    ["url"]=>
+    string(50)  "https://www.ros-net.ru/obschee-sobranie-soyuza-myasopererabotchikov.html"
+  }
+  [107]=>
+  array(2) {
+    ["text"]=>
+    string(114) "Новые пункты по переработке мяса появятся в Тюменской области"
+    ["url"]=>
+    string(332)  "https://www.ros-net.ru/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%8B-%D0%BF%D0%BE-%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-%D0%BC%D1%8F%D1%81%D0%B0-%D0%BF%D0%BE%D1%8F%D0%B2%D1%8F%D1%82%D1%81%D1%8F-%D0%B2-%D1%82%D1%8E%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B9-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8.html"
+  }
+  [108]=>
+  array(2) {
+    ["text"]=>
+    string(122) "Что думают эксперты о снятии ограничений по АЧС в Брянской области"
+    ["url"]=>
+    string(64)  "https://www.ros-net.ru/eksperty-o-snyatii-ogranicheniy-po-achs-vbryanskoy-oblasti.html"
+  }
+  [109]=>
+  array(2) {
+    ["text"]=>
+    string(116) "Рекордные показатели по производству мяса в России - 4,0 млн тонн"
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/rekordnie-pokazateli-po-proizvodstvu-myasa-v-rossii.html"
+  }
+  [110]=>
+  array(2) {
+    ["text"]=>
+    string(0) ""
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/rekordnie-pokazateli-po-proizvodstvu-myasa-v-rossii.html"
+  }
+  [111]=>
+  array(2) {
+    ["text"]=>
+    string(110) "Мясная неделя на гастрономическом фестивале "Золотая осень""
+    ["url"]=>
+    string(46)  "https://www.ros-net.ru/gastronomicheskiy-festival-zolotaya-osen.html"
+  }
+  [112]=>
+  array(2) {
+    ["text"]=>
+    string(115) "Рост производства свинины и кур, молока в Свердловской области"
+    ["url"]=>
+    string(67)  "https://www.ros-net.ru/rost-proizvodstva-svininy-kur-i-moloka-v-sverdlovskoy-oblasti.html"
+  }
+  [113]=>
+  array(2) {
+    ["text"]=>
+    string(107) "Российский агропромышленный комплекс. Круглый стол. Итоги"
+    ["url"]=>
+    string(56)  "https://www.ros-net.ru/rossiyskiy-agropromishlenniy-kompleks-krugliy-stol.html"
+  }
+  [114]=>
+  array(2) {
+    ["text"]=>
+    string(104) "Сокращение поголовья скота и птицы в Украине. Статистика"
+    ["url"]=>
+    string(52)  "https://www.ros-net.ru/sokraschenie-pogolovya-skota-i-pticy-v-ukraine.html"
+  }
+  [115]=>
+  array(2) {
+    ["text"]=>
+    string(111) "Развивать мясное направление в планах фермера из Волгограда"
+    ["url"]=>
+    string(65)  "https://www.ros-net.ru/razvivat-myasnoe-napravlenie-v-planah-fermera-iz-volgograda.html"
+  }
+  [116]=>
+  array(2) {
+    ["text"]=>
+    string(116) "В Татарстане крупные свинокомплексы потерпели огромные убытки"
+    ["url"]=>
+    string(67)  "https://www.ros-net.ru/v-tatarstane-krupnie-svinokompleksy-poterpeli-ogromnye-ubytki.html"
+  }
+  [117]=>
+  array(2) {
+    ["text"]=>
+    string(105) "Какова ситуация на мясном рынке? Еженедельный мониторинг"
+    ["url"]=>
+    string(56)  "https://www.ros-net.ru/situaciya-na-myasnom-rinke-ezjenedelniy-monitoring.html"
+  }
+  [118]=>
+  array(2) {
+    ["text"]=>
+    string(109) "Электронная ветеринарная сертификация в Красноярском крае"
+    ["url"]=>
+    string(67)  "https://www.ros-net.ru/elektronnaya-veterinarnaya-sertifikaciya-v-krasnoyarskom-krae.html"
+  }
+  [119]=>
+  array(2) {
+    ["text"]=>
+    string(99) "Обзор свиного рынка по состоянию на 30 сентября 2016 года"
+    ["url"]=>
+    string(43)  "https://www.ros-net.ru/obzor-svinogo-rinka-30-september-2016.html"
+  }
+  [120]=>
+  array(2) {
+    ["text"]=>
+    string(105) "Запрет ввоза свинины из Украины в Молдавию. В чем причина?"
+    ["url"]=>
+    string(49)  "https://www.ros-net.ru/zapret-vvoza-svininy-iz-urkainy-v-moldaviyu.html"
+  }
+  [121]=>
+  array(2) {
+    ["text"]=>
+    string(90) "Обзор рынка скота по состоянию 30 сентября 2016 года"
+    ["url"]=>
+    string(41)  "https://www.ros-net.ru/obzor-rinka-skota-30-september-2016.html"
+  }
+  [122]=>
+  array(2) {
+    ["text"]=>
+    string(105) "Ишимский мясокомбинат запускает производство мяса птицы"
+    ["url"]=>
+    string(64)  "https://www.ros-net.ru/ishimskiy-myasokombinat-zapuskaet-proizvodstvo-myasa-pticy.html"
+  }
+  [123]=>
+  array(2) {
+    ["text"]=>
+    string(67) "Экспорт мяса птицы на Украине растет"
+    ["url"]=>
+    string(42)  "https://www.ros-net.ru/export-myasa-pticy-na-ukraibe-rastet.html"
+  }
+  [124]=>
+  array(2) {
+    ["text"]=>
+    string(89) "В Голландии сократился экспорт свинины в 2016 году"
+    ["url"]=>
+    string(44)  "https://www.ros-net.ru/v-gollandii-sokratilsya-export-svininy.html"
+  }
+  [125]=>
+  array(2) {
+    ["text"]=>
+    string(90) "В Казахстане увеличилось производство мяса на 7,8%"
+    ["url"]=>
+    string(49)  "https://www.ros-net.ru/v-kazahstane-uvelichilos-proizvodstvo-myasa.html"
+  }
+  [126]=>
+  array(2) {
+    ["text"]=>
+    string(93) "Обеспечение безопасности оленины обеспечат в ЯНАО"
+    ["url"]=>
+    string(25)  "https://www.ros-net.ru/bezopasnost-oleniny.html"
+  }
+  [127]=>
+  array(2) {
+    ["text"]=>
+    string(90) "Нижегородская область планирует экспорт свинины"
+    ["url"]=>
+    string(45)  "https://www.ros-net.ru/export-svininy-v-nizhegorodskoy-oblasti.html"
+  }
+  [128]=>
+  array(2) {
+    ["text"]=>
+    string(103) "Какие факторы спровицируют давление на цены на говядину"
+    ["url"]=>
+    string(41)  "https://www.ros-net.ru/faktory-davleniya-tsen-na-govyadinu.html"
+  }
+  [129]=>
+  array(2) {
+    ["text"]=>
+    string(103) "Экспорт Российского мяса птицы растет. Импорт снижается"
+    ["url"]=>
+    string(55)  "https://www.ros-net.ru/export-rossiyskogo-myasa-rastet-import-snijaetsya.html"
+  }
+  [130]=>
+  array(2) {
+    ["text"]=>
+    string(94) "Вырос объём производства мясокостной муки в России"
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/vyros-obyom-proizvodstva-myasokostnoy-muki-v-rossii.html"
+  }
+  [131]=>
+  array(2) {
+    ["text"]=>
+    string(81) "В России стабильно растет производство мяса"
+    ["url"]=>
+    string(49)  "https://www.ros-net.ru/v-rossii-stabilno-rastet-proizvodstvo-myasa.html"
+  }
+  [132]=>
+  array(2) {
+    ["text"]=>
+    string(77) "Начало поставок Российского мяса в Турцию"
+    ["url"]=>
+    string(50)  "https://www.ros-net.ru/nachalo-postavok-rossiyskogo-myasa-v-turciyu.html"
+  }
+  [133]=>
+  array(2) {
+    ["text"]=>
+    string(100) "Импорт живых свиней и свинины из Эстонии впервые вырос"
+    ["url"]=>
+    string(52)  "https://www.ros-net.ru/import-jivuh-sviney-i-svininy-iz-estonii-vyros.html"
+  }
+  [134]=>
+  array(2) {
+    ["text"]=>
+    string(85) "Увеличение темпов роста рынка животных белков"
+    ["url"]=>
+    string(53)  "https://www.ros-net.ru/uvelichenie-tempov-rosta-rynka-zhivotnyh-belkov.html"
+  }
+  [135]=>
+  array(2) {
+    ["text"]=>
+    string(79) "Рост мирового производства говядины. Темпы"
+    ["url"]=>
+    string(42)  "https://www.ros-net.ru/rost-mirovogo-proizvodstva-govyadiny.html"
+  }
+  [136]=>
+  array(2) {
+    ["text"]=>
+    string(79) "Перечень племенной продукции с нулевым НДС"
+    ["url"]=>
+    string(48)  "https://www.ros-net.ru/perechen-plemennoy-produkcii-s-nulevym-nds.html"
+  }
+  [137]=>
+  array(2) {
+    ["text"]=>
+    string(73) "Обзор свиного рынка на 21 октября 2016 года"
+    ["url"]=>
+    string(36)  "https://www.ros-net.ru/obzor-svinogo-rynka-21-10-2016.html"
+  }
+  [138]=>
+  array(2) {
+    ["text"]=>
+    string(68) "Обзор рынка скота – 21 октября 2016 года"
+    ["url"]=>
+    string(34)  "https://www.ros-net.ru/obzor-rynka-skota-21-10-2016.html"
+  }
+  [139]=>
+  array(2) {
+    ["text"]=>
+    string(96) "Темпы роста халяль-индустрии в России увеличиваются"
+    ["url"]=>
+    string(59)  "https://www.ros-net.ru/tempy-rosta-halal-industrii-v-rossii-uvelichivayutsya.html"
+  }
+  [140]=>
+  array(2) {
+    ["text"]=>
+    string(111) "Цены на свинину в условиях высокого спроса и падения импорта"
+    ["url"]=>
+    string(321)  "https://www.ros-net.ru/%D1%86%D0%B5%D0%BD%D1%8B-%D0%BD%D0%B0-%D1%81%D0%B2%D0%B8%D0%BD%D0%B8%D0%BD%D1%83-%D0%B2-%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85-%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B3%D0%BE-%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B0-%D0%B8-%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%BC%D0%BF%D0%BE%D1%80%D1%82%D0%B0.html"
+  }
+  [141]=>
+  array(2) {
+    ["text"]=>
+    string(101) "Экспорт российской свинины увеличился почти в три раза"
+    ["url"]=>
+    string(295)  "https://www.ros-net.ru/%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9-%D1%81%D0%B2%D0%B8%D0%BD%D0%B8%D0%BD%D1%8B-%D1%83%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BB%D1%81%D1%8F-%D0%BF%D0%BE%D1%87%D1%82%D0%B8-%D0%B2-%D1%82%D1%80%D0%B8-%D1%80%D0%B0%D0%B7%D0%B0.html"
+  }
+  [142]=>
+  array(2) {
+    ["text"]=>
+    string(94) "Цена российской говядины достигла максимума в 2016 г."
+    ["url"]=>
+    string(263)  "https://www.ros-net.ru/%D1%86%D0%B5%D0%BD%D0%B0-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9-%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B-%D0%B4%D0%BE%D1%81%D1%82%D0%B8%D0%B3%D0%BB%D0%B0-%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D1%83%D0%BC%D0%B0-%D0%B2-2016-%D0%B3.html"
+  }
+  [143]=>
+  array(2) {
+    ["text"]=>
+    string(91) "Европейский рынок свинины остается под давлением"
+    ["url"]=>
+    string(269)  "https://www.ros-net.ru/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%8B%D0%BD%D0%BE%D0%BA-%D1%81%D0%B2%D0%B8%D0%BD%D0%B8%D0%BD%D1%8B-%D0%BE%D1%81%D1%82%D0%B0%D0%B5%D1%82%D1%81%D1%8F-%D0%BF%D0%BE%D0%B4-%D0%B4%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC.html"
+  }
+  [144]=>
+  array(2) {
+    ["text"]=>
+    string(109) "Мясное направление должно «выстрелить» — Дмитрий Медведев"
+    ["url"]=>
+    string(321)  "https://www.ros-net.ru/%D0%BC%D1%8F%D1%81%D0%BD%D0%BE%D0%B5-%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE-%C2%AB%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B8%D1%82%D1%8C%C2%BB-%E2%80%94-%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2.html"
+  }
+  [145]=>
+  array(2) {
+    ["text"]=>
+    string(111) "Подписание Транс-Тихоокеанского партнерства. Что изменится?"
+    ["url"]=>
+    string(249)  "https://www.ros-net.ru/%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D1%80%D0%B0%D0%BD%D1%81-%D1%82%D0%B8%D1%85%D0%BE%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%B0.html"
+  }
+  [146]=>
+  array(2) {
+    ["text"]=>
+    string(103) "Повлияет ли рост поставок говядины в США на динамику цен"
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/rost-postavok-govyadiny-v-usa-ne-svyazan-s-importom.html"
+  }
+  [147]=>
+  array(2) {
+    ["text"]=>
+    string(78) "Падение цен на свином рынке ЕС замедлилось"
+    ["url"]=>
+    string(48)  "https://www.ros-net.ru/padenie-tsen-na-svinom-rynke-es-zamedlilos.html"
+  }
+  [148]=>
+  array(2) {
+    ["text"]=>
+    string(91) "Рекордный уровень производства свинины в Испании"
+    ["url"]=>
+    string(53)  "https://www.ros-net.ru/rekordniy-uroven-proizvodstva-svininy-v-ispanii.html"
+  }
+  [149]=>
+  array(2) {
+    ["text"]=>
+    string(92) "Инвестиции в проекты по животноводству в Башкирии"
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/investicii-v-proekty-po-zhivotnovodstvu-v-bashkirii.html"
+  }
+  [150]=>
+  array(2) {
+    ["text"]=>
+    string(71) "Экспорт свинины из Украины упал в 20 раз"
+    ["url"]=>
+    string(201)  "https://www.ros-net.ru/%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D1%81%D0%B2%D0%B8%D0%BD%D0%B8%D0%BD%D1%8B-%D0%B8%D0%B7-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B-%D1%83%D0%BF%D0%B0%D0%BB-%D0%B2-20-%D1%80%D0%B0%D0%B7.html"
+  }
+  [151]=>
+  array(2) {
+    ["text"]=>
+    string(86) "АЧС грозит уничтожить российское свиноводство"
+    ["url"]=>
+    string(73)  "https://www.ros-net.ru/afrikanskaya-chuma-sviney-grozit-unichtojit-rossiyskoe-svinovodstvo.html"
+  }
+  [152]=>
+  array(2) {
+    ["text"]=>
+    string(114) "В каком году стартует экспорт мяса в Китай? Прогнозы экспертов"
+    ["url"]=>
+    string(48)  "https://www.ros-net.ru/v-kakom-godu-startuet-export-myasa-v-kitay.html"
+  }
+  [153]=>
+  array(2) {
+    ["text"]=>
+    string(89) "Производство говядины в России рекордно выросло"
+    ["url"]=>
+    string(54)  "https://www.ros-net.ru/proizvodstvo-govyadiny-v-rossii-rekordno-vyroslo.html"
+  }
+  [154]=>
+  array(2) {
+    ["text"]=>
+    string(86) "В России произвели 1,6 млн тонн свинины в 2016 году"
+    ["url"]=>
+    string(58)  "https://www.ros-net.ru/v-rossii-proizveli-1-6-millionov-tonn-svininy-v-2016.html"
+  }
+  [155]=>
+  array(2) {
+    ["text"]=>
+    string(91) "Мясная промышленность в Белоруссии- обзор 2016 года"
+    ["url"]=>
+    string(47)  "https://www.ros-net.ru/myasnaya-promyshlennost-v-belorussii-2016.html"
+  }
+  [156]=>
+  array(2) {
+    ["text"]=>
+    string(86) "Планируется рост производства мяса в США на 7,8 %"
+    ["url"]=>
+    string(64)  "https://www.ros-net.ru/planiruetsya-rost-proizvodstva-myasa-v-usa-na-7-8-procenta.html"
+  }
+  [157]=>
+  array(2) {
+    ["text"]=>
+    string(97) "В Мурманской области в 4,6 раза сократился выпуск мяса"
+    ["url"]=>
+    string(51)  "https://www.ros-net.ru/v-murmanskoy-oblasti-sikratilsya-vypusk-myasa.html"
+  }
+  [158]=>
+  array(2) {
+    ["text"]=>
+    string(127) "На Токарёвской птицефабрике вышла тестовая партия готовой продукции"
+    ["url"]=>
+    string(76)  "https://www.ros-net.ru/na-tokarevskoy-pticefabrike-vyshla-testovaya-partiya-gotovoy-produkcii.html"
+  }
+  [159]=>
+  array(2) {
+    ["text"]=>
+    string(95) "Создание совместных предприятий России и Индонезии"
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/sozdanie-sovmestnyh-predpriyatiy-rossii-i-indonezii.html"
+  }
+  [160]=>
+  array(2) {
+    ["text"]=>
+    string(93) "Импорт мяса из России в Турцию до 50 тысяч тонн в год"
+    ["url"]=>
+    string(38)  "https://www.ros-net.ru/import-myasa-iz-rossii-v-turciyu.html"
+  }
+  [161]=>
+  array(2) {
+    ["text"]=>
+    string(108) "Предложение Ткачева о создании единой ветеринарной службы"
+    ["url"]=>
+    string(41)  "https://www.ros-net.ru/sozdanie-edinoy-veterinarnoy-slujby.html"
+  }
+  [162]=>
+  array(2) {
+    ["text"]=>
+    string(119) "Основные тенденции на рынке мясоперерабатывающего оборудования"
+    ["url"]=>
+    string(64)  "https://www.ros-net.ru/tendencii-na-rynke-myasopererabatyvayuschego-oborudovaniya.html"
+  }
+  [163]=>
+  array(2) {
+    ["text"]=>
+    string(102) "Взаимные поставки говядины и мяса птицы России и Японии"
+    ["url"]=>
+    string(46)  "https://www.ros-net.ru/vzaimnie-postavki-myasa-rossii-i-yaponii.html"
+  }
+  [164]=>
+  array(2) {
+    ["text"]=>
+    string(103) "В Крыму построят два животноводческих комплекса и завод"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/v-krymu-postroyat-2-zhivotnovodcheskih-kompleksa-i-zavod.html"
+  }
+  [165]=>
+  array(2) {
+    ["text"]=>
+    string(109) "Цена комбикормов для КРС снизилась после длительного роста"
+    ["url"]=>
+    string(54)  "https://www.ros-net.ru/cena-kombikormov-snizilas-posle-dlitelnogo-rosta.html"
+  }
+  [166]=>
+  array(2) {
+    ["text"]=>
+    string(102) "На Кубани ожидается роста показателей в животноводстве"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/na-kubani-ozhidaetsya-rost-pokazateley-v-zhivotnovodstve.html"
+  }
+  [167]=>
+  array(2) {
+    ["text"]=>
+    string(107) "Выпуск мраморной говядины в Татарстане увеличился в 2 раза"
+    ["url"]=>
+    string(67)  "https://www.ros-net.ru/vypusk-mramornoy-govyadiny-v-tatarstane-uvelichilsya-v-2-raza.html"
+  }
+  [168]=>
+  array(2) {
+    ["text"]=>
+    string(110) "Россия планирует поставлять свинину и мясо птицы в Сингапур"
+    ["url"]=>
+    string(47)  "https://www.ros-net.ru/postavki-svininy-i-myasa-pticy-v-singapur.html"
+  }
+  [169]=>
+  array(2) {
+    ["text"]=>
+    string(109) "Итоги мониторинга ситуации на агропродовольственном рынке"
+    ["url"]=>
+    string(55)  "https://www.ros-net.ru/monitoring-situacii-na-agroprodovolstvennom-rynke.html"
+  }
+  [170]=>
+  array(2) {
+    ["text"]=>
+    string(103) "Россия планирует экспорт 50000 тонн мяса в Турцию ежегодно"
+    ["url"]=>
+    string(48)  "https://www.ros-net.ru/export-50000tonn-myasa-v-turciyu-ezhegodno.html"
+  }
+  [171]=>
+  array(2) {
+    ["text"]=>
+    string(105) "Производство свинины в России в 2016 г. рекордно увеличится"
+    ["url"]=>
+    string(55)  "https://www.ros-net.ru/proizvodstvo-myasa-v-rossii-recordno-uvelichitsya.html"
+  }
+  [172]=>
+  array(2) {
+    ["text"]=>
+    string(94) "Кыргызстан планирует наладить экспорт мяса в Китай"
+    ["url"]=>
+    string(54)  "https://www.ros-net.ru/kirgistan-planiruet-naladit-export-myasa-v-kitay.html"
+  }
+  [173]=>
+  array(2) {
+    ["text"]=>
+    string(92) "В Крыму расширена зона карантина из-за вспышки АЧС"
+    ["url"]=>
+    string(50)  "https://www.ros-net.ru/v-krimu-rasshirena-zona-karantina-iz-za-achs.html"
+  }
+  [174]=>
+  array(2) {
+    ["text"]=>
+    string(118) "Совет федерации о сложностях налаживания поставок мяса в Турцию"
+    ["url"]=>
+    string(74)  "https://www.ros-net.ru/sovet-federacii-o-slozhnostyah-nalajivaniya-postavok-myasa-v-turciyu.html"
+  }
+  [175]=>
+  array(2) {
+    ["text"]=>
+    string(117) "Утвержден перечень сельхозпродукции для оказания господдержки"
+    ["url"]=>
+    string(59)  "https://www.ros-net.ru/perechen-selgozprodukcii-dlya-okazaniya-gospodderzhki.html"
+  }
+  [176]=>
+  array(2) {
+    ["text"]=>
+    string(143) "Список стран, куда Россия может поставлять продукцию животного происхождения"
+    ["url"]=>
+    string(282)  "https://www.ros-net.ru/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D1%81%D1%82%D1%80%D0%B0%D0%BD-%D0%BA%D1%83%D0%B4%D0%B0-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F-%D0%BC%D0%BE%D0%B6%D0%B5%D1%82-%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D1%8E.html"
+  }
+  [177]=>
+  array(2) {
+    ["text"]=>
+    string(80) "Увеличение производства свинины в Приморье"
+    ["url"]=>
+    string(238)  "https://www.ros-net.ru/%D1%83%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D1%81%D0%B2%D0%B8%D0%BD%D0%B8%D0%BD%D1%8B-%D0%B2-%D0%BF%D1%80%D0%B8%D0%BC%D0%BE%D1%80%D1%8C%D0%B5.html"
+  }
+  [178]=>
+  array(2) {
+    ["text"]=>
+    string(68) "Рост производства мяса в ноябре на 1,4%"
+    ["url"]=>
+    string(189)  "https://www.ros-net.ru/%D1%80%D0%BE%D1%81%D1%82-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%BC%D1%8F%D1%81%D0%B0-%D0%B2-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D0%B5-%D0%BD%D0%B0-1-4.html"
+  }
+  [179]=>
+  array(2) {
+    ["text"]=>
+    string(99) "В 2017 г ожидается рост показателей экспорта мяса в Ирак"
+    ["url"]=>
+    string(277)  "https://www.ros-net.ru/%D0%B2-2017-%D0%B3-%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%B5%D1%82%D1%81%D1%8F-%D1%80%D0%BE%D1%81%D1%82-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9-%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0-%D0%BC%D1%8F%D1%81%D0%B0-%D0%B2-%D0%B8%D1%80%D0%B0%D0%BA.html"
+  }
+  [180]=>
+  array(2) {
+    ["text"]=>
+    string(124) "Судьба «Докторской» колбасы будет разделена между мясокомбинатами"
+    ["url"]=>
+    string(366)  "https://www.ros-net.ru/%D1%81%D1%83%D0%B4%D1%8C%D0%B1%D0%B0-%C2%AB%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9%C2%BB-%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D1%8B-%D0%B1%D1%83%D0%B4%D0%B5%D1%82-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%BC%D1%8F%D1%81%D0%BE%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%B0%D0%BC%D0%B8.html"
+  }
+  [181]=>
+  array(2) {
+    ["text"]=>
+    string(100) "В следующем году ожидается дефицит украинской свинины"
+    ["url"]=>
+    string(294)  "https://www.ros-net.ru/%D0%B2-%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B5%D0%BC-%D0%B3%D0%BE%D0%B4%D1%83-%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%B5%D1%82%D1%81%D1%8F-%D0%B4%D0%B5%D1%84%D0%B8%D1%86%D0%B8%D1%82-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9-%D1%81%D0%B2%D0%B8%D0%BD%D0%B8%D0%BD%D1%8B.html"
+  }
+  [182]=>
+  array(2) {
+    ["text"]=>
+    string(88) "Россия ограничила ввоз птицы из некоторых стран"
+    ["url"]=>
+    string(55)  "https://www.ros-net.ru/rossiya-ogranichila-vvoz-pticy-iz-nekotorih-stran.html"
+  }
+  [183]=>
+  array(2) {
+    ["text"]=>
+    string(93) "В России увеличилось производство мяса птицы и яиц"
+    ["url"]=>
+    string(58)  "https://www.ros-net.ru/v-rossii-uvelichilos-proizvodstvo-myasa-pticy-i-yaic.html"
+  }
+  [184]=>
+  array(2) {
+    ["text"]=>
+    string(103) "Бразилия имеет все шансы стать мировым поставщиком мяса"
+    ["url"]=>
+    string(65)  "https://www.ros-net.ru/braziliya-imeet-vse-shansy-stat-mirovim-postavschikom-myasa.html"
+  }
+  [185]=>
+  array(2) {
+    ["text"]=>
+    string(112) "Запрет на поставки говядины из Беларуси в Россию сохраняется"
+    ["url"]=>
+    string(56)  "https://www.ros-net.ru/zapret-na-postavki-govyadiny-iz-belarusi-v-rossiyu.html"
+  }
+  [186]=>
+  array(2) {
+    ["text"]=>
+    string(83) "Цены на комбикорма для свиней в России падают"
+    ["url"]=>
+    string(53)  "https://www.ros-net.ru/ceny-na-kombikorma-dlya-sviney-v-rossii-padayut.html"
+  }
+  [187]=>
+  array(2) {
+    ["text"]=>
+    string(69) "Обзор рынка скота на 23 декабря 2016 года"
+    ["url"]=>
+    string(34)  "https://www.ros-net.ru/obzor-rynka-skota-23-12-2016.html"
+  }
+  [188]=>
+  array(2) {
+    ["text"]=>
+    string(99) "На мировом рынке планируется снижение цен на говядину"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/na-mirovom-rynke-planiruetsya-snijenie-tsen-na-govyadinu.html"
+  }
+  [189]=>
+  array(2) {
+    ["text"]=>
+    string(95) "Рост поголовья овец в Великобритании - итоги 2016 года"
+    ["url"]=>
+    string(54)  "https://www.ros-net.ru/rost-pogolovya-ovets-v-belikobritanii-itogi-2016.html"
+  }
+  [190]=>
+  array(2) {
+    ["text"]=>
+    string(87) "В Казахстане увеличился экспорт мяса в два раза"
+    ["url"]=>
+    string(53)  "https://www.ros-net.ru/v-kazahstane-uvelichilsya-export-myasa-v-2-raza.html"
+  }
+  [191]=>
+  array(2) {
+    ["text"]=>
+    string(91) "В мясной отрасли в 2017 году ожидается рост выручки "
+    ["url"]=>
+    string(60)  "https://www.ros-net.ru/v-myasnoy-otrasli-ojidaetsya-rost-vyruchki-v-2017-godu.html"
+  }
+  [192]=>
+  array(2) {
+    ["text"]=>
+    string(120) "В Крыму планируется запуск французской фермы по выращиванию овец"
+    ["url"]=>
+    string(55)  "https://www.ros-net.ru/ferma-po-vyraschivaniyu-francuzskih-ovets-v-krymu.html"
+  }
+  [193]=>
+  array(2) {
+    ["text"]=>
+    string(103) "В Узбекистане повысили пошлины на ввоз мясной продукции"
+    ["url"]=>
+    string(63)  "https://www.ros-net.ru/v-uzbekistane-povysili-poshliny-ba-vvoz-myasnoy-produkcii.html"
+  }
+  [194]=>
+  array(2) {
+    ["text"]=>
+    string(128) "Планируется сокращение производства говядины в ЕС в ближайшую декаду"
+    ["url"]=>
+    string(46)  "https://www.ros-net.ru/sokraschenie-proizvodstva-govyadiny-v-es.html"
+  }
+  [195]=>
+  array(2) {
+    ["text"]=>
+    string(106) "Африканская чума свиней "стоила" России миллиардов рублей"
+    ["url"]=>
+    string(42)  "https://www.ros-net.ru/Achs-stoila-rossii-milliardov-rubley.html"
+  }
+  [196]=>
+  array(2) {
+    ["text"]=>
+    string(110) "Россия может ввести запрет на поставки птицы и яиц из Европы"
+    ["url"]=>
+    string(47)  "https://www.ros-net.ru/zapret-na-postavku-pticy-i-yaic-iz-evropy.html"
+  }
+  [197]=>
+  array(2) {
+    ["text"]=>
+    string(110) "В Украине выросли объемы производства почти всех видов мяса"
+    ["url"]=>
+    string(42)  "https://www.ros-net.ru/v-ukraine-vyroslo-proizvodstvo-myasa.html"
+  }
+  [198]=>
+  array(2) {
+    ["text"]=>
+    string(90) "В России введен запрет на ввоз говядины из Грузии"
+    ["url"]=>
+    string(40)  "https://www.ros-net.ru/zapret-na-vvoz-govyadiny-iz-gruzii.html"
+  }
+  [199]=>
+  array(2) {
+    ["text"]=>
+    string(97) "В РФ, как оказалось, противоестественные цены на мясо"
+    ["url"]=>
+    string(49)  "https://www.ros-net.ru/v-rossii-protivoestestvennye-tceny-na-myaso.html"
+  }
+  [200]=>
+  array(2) {
+    ["text"]=>
+    string(99) "В Тюменской области растет производство молока и мяса"
+    ["url"]=>
+    string(61)  "https://www.ros-net.ru/v-tyumenskoy-oblasti-rastet-proizvodstvo-moloka-i-myasa.html"
+  }
+  [201]=>
+  array(2) {
+    ["text"]=>
+    string(98) "Операционные результаты группы «Черкизово» за 2016 год"
+    ["url"]=>
+    string(31)  "https://www.ros-net.ru/rezultaty-cherkizovo-2016.html"
+  }
+  [202]=>
+  array(2) {
+    ["text"]=>
+    string(118) "«Мираторг» увеличил производство говядины, свинины и мяса птицы"
+    ["url"]=>
+    string(69)  "https://www.ros-net.ru/miratorg-uvelichil-proizvodstvo-govyadiny-svininy-i-myasa-pticy.html"
+  }
+  [203]=>
+  array(2) {
+    ["text"]=>
+    string(103) "Рост продукции сельского хозяйства за 2016г. выросло на 4,8%"
+    ["url"]=>
+    string(44)  "https://www.ros-net.ru/rost-produkcii-selskogo-hozyastva-2016.html"
+  }
+  [204]=>
+  array(2) {
+    ["text"]=>
+    string(103) "Введен запрет на ввоз мяса птицы из четырех субъектов РФ"
+    ["url"]=>
+    string(48)  "https://www.ros-net.ru/zapret-na-vvoz-myasa-iz-4-subyektov-rossii.html"
+  }
+  [205]=>
+  array(2) {
+    ["text"]=>
+    string(105) "Россия заняла седьмое место на мировом рынке комбикормов"
+    ["url"]=>
+    string(44)  "https://www.ros-net.ru/russia-na-7-meste-na-rynke-kombikormov.html"
+  }
+  [206]=>
+  array(2) {
+    ["text"]=>
+    string(105) "Тенденции убоя коров в США укажут на будущий размер стада"
+    ["url"]=>
+    string(33)  "https://www.ros-net.ru/tendencii-uboya-korov-v-usa.html"
+  }
+  [207]=>
+  array(2) {
+    ["text"]=>
+    string(119) "Новый комплекс по производству «розовой телятины» в Курской обл "
+    ["url"]=>
+    string(53)  "https://www.ros-net.ru/noviy-komplex-po-proizvodstvu-rozovoy-telyatiny.html"
+  }
+  [208]=>
+  array(2) {
+    ["text"]=>
+    string(110) "Омский регион оказался в ТОП-20 среди производителей свинины"
+    ["url"]=>
+    string(54)  "https://www.ros-net.ru/omskiy-region-v-top-sredi-proizvoditeley-svininy.html"
+  }
+  [209]=>
+  array(2) {
+    ["text"]=>
+    string(146) "Новый комбинат по производству колбасы и мясопродуктов в Комсомольске-на-Амуре"
+    ["url"]=>
+    string(61)  "https://www.ros-net.ru/noviy-kombinat-po-proizvodstvu-kolbasy-i-myasoproduktov.html"
+  }
+  [210]=>
+  array(2) {
+    ["text"]=>
+    string(138) "Экспорт свинины из Канады достиг нового рекорда в условиях мирового спроса"
+    ["url"]=>
+    string(52)  "https://www.ros-net.ru/export-svininy-iz-kanady-dostig-novogo-rekorda.html"
+  }
+  [211]=>
+  array(2) {
+    ["text"]=>
+    string(120) "Мясонефтяной занавес. Торговая война между Россией и Белоруссией"
+    ["url"]=>
+    string(49)  "https://www.ros-net.ru/torgovaya-voyna-mejdu-rossiey-i-belorussiey.html"
+  }
+  [212]=>
+  array(2) {
+    ["text"]=>
+    string(87) "Рост продукции сельского хозяйства за 2016г.на 4,8%"
+    ["url"]=>
+    string(44)  "https://www.ros-net.ru/rost-produkcii-selskogo-hozyastva-2016.html"
+  }
+  [213]=>
+  array(2) {
+    ["text"]=>
+    string(109) "Каковы перспективы мясоколбасной отрасли Украины в 2017 году"
+    ["url"]=>
+    string(53)  "https://www.ros-net.ru/perspektivy-myasokolbasnoy-otrasli-ukrainy-2017.html"
+  }
+  [214]=>
+  array(2) {
+    ["text"]=>
+    string(102) "Запрет на поставки мяса птицы из некоторых стран Европы"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/zapret-na-postavki-myasa-pticy-iz-nekotoryh-strav-evropy.html"
+  }
+  [215]=>
+  array(2) {
+    ["text"]=>
+    string(110) "Возобновление экспорта птицепродукции из Украины в Израиль"
+    ["url"]=>
+    string(53)  "https://www.ros-net.ru/vozobnovlenie-exporta-pticy-iz-ukrainy-v-izrail.html"
+  }
+  [216]=>
+  array(2) {
+    ["text"]=>
+    string(121) "Бразильские эксперты оценят качество говядины в Брянской области"
+    ["url"]=>
+    string(72)  "https://www.ros-net.ru/brazilskie-experty-ocenyat-kachestvo-govyadiny-v-bryanskoy-oblasti.html"
+  }
+  [217]=>
+  array(2) {
+    ["text"]=>
+    string(116) "Куриное мясо из Болгарии пользуется спросом. Прогнозы на 2020 год"
+    ["url"]=>
+    string(50)  "https://www.ros-net.ru/kurinoe-myaso-iz-bolgarii-polzuetsya-sprosom.html"
+  }
+  [218]=>
+  array(2) {
+    ["text"]=>
+    string(106) "В Ленинградской области будет больше халяльной продукции"
+    ["url"]=>
+    string(61)  "https://www.ros-net.ru/v-leningradskoy-oblasti-budet-bolshe-halalnoy-produkcii.html"
+  }
+  [219]=>
+  array(2) {
+    ["text"]=>
+    string(105) "Россия планирует поставлять зерно, мясо и рыбу в Бразилию"
+    ["url"]=>
+    string(65)  "https://www.ros-net.ru/rossiya-planiruet-postavlyat-zerno-myaso-i-ribu-v-braziliyu.html"
+  }
+  [220]=>
+  array(2) {
+    ["text"]=>
+    string(84) "За 2016 год в России произвели 6,1000 тонн баранины"
+    ["url"]=>
+    string(52)  "https://www.ros-net.ru/za-2016-v-rossii-proizveli-61000-tonn-baraniny.html"
+  }
+  [221]=>
+  array(2) {
+    ["text"]=>
+    string(105) "Производство говядины в декабре 2016 г максимально выросло"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/proizvodstvo-govyadiny-v-dekabre-2016-marsimalno-viroslo.html"
+  }
+  [222]=>
+  array(2) {
+    ["text"]=>
+    string(104) "Рекордный скачок производства свинины в России в 2016 году"
+    ["url"]=>
+    string(58)  "https://www.ros-net.ru/recordniy-skachok-proizvodstva-svininy-v-rossii-2016.html"
+  }
+  [223]=>
+  array(2) {
+    ["text"]=>
+    string(99) "Ямал планирует поставки оленины в Белоруссию и Москву"
+    ["url"]=>
+    string(61)  "https://www.ros-net.ru/yamal-planiruet-postavki-oleniny-v-belorussiyu-i-moskvu.html"
+  }
+  [224]=>
+  array(2) {
+    ["text"]=>
+    string(112) "Производство мяса в Красноярском крае в 2016 г возросло в 2 раза"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/proizvodstvo-myasa-v-krasnoyarskom-krae-viroslo-v-2-raza.html"
+  }
+  [225]=>
+  array(2) {
+    ["text"]=>
+    string(123) "Введение электронного отслеживания продукции от фермы до прилавка"
+    ["url"]=>
+    string(40)  "https://www.ros-net.ru/elektronnoe-otslejivanie-produkcii.html"
+  }
+  [226]=>
+  array(2) {
+    ["text"]=>
+    string(102) "В Тульской области отмечается рост производства колбас"
+    ["url"]=>
+    string(48)  "https://www.ros-net.ru/rost-proizvodstva-kolbas-v-tulskoy-oblasti.html"
+  }
+  [227]=>
+  array(2) {
+    ["text"]=>
+    string(114) "Запуск собственого мясокомбината «Ашан» в Тамбовской области"
+    ["url"]=>
+    string(47)  "https://www.ros-net.ru/myasokombinat-auchan-v-tambovskoy-oblasti.html"
+  }
+  [228]=>
+  array(2) {
+    ["text"]=>
+    string(109) "«Черкизово» вошли в тройку лидеров по производству свинины"
+    ["url"]=>
+    string(64)  "https://www.ros-net.ru/cherkizovo-voshli-v-troyku-liderov-po-proizvodstvu-svininy.html"
+  }
+  [229]=>
+  array(2) {
+    ["text"]=>
+    string(104) "В Белоруссии ввели запрет на импорт свинины из Запорожья"
+    ["url"]=>
+    string(56)  "https://www.ros-net.ru/v-belorussii-zapretili-import-snininy-iz-zaporojya.html"
+  }
+  [230]=>
+  array(2) {
+    ["text"]=>
+    string(122) "В свинокомплексах Белгорода запускают проект по борьбе с запахами"
+    ["url"]=>
+    string(50)  "https://www.ros-net.ru/borba-s-zapahami-v-svinokompleksah-belgoroda.html"
+  }
+  [231]=>
+  array(2) {
+    ["text"]=>
+    string(79) "Импорт свинины с начала 2017 года возрос на 17%"
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/import-svininy-s-nachala-2017-vyros-na-17-procentov.html"
+  }
+  [232]=>
+  array(2) {
+    ["text"]=>
+    string(100) "Выпуск говядины в Великобритания в феврале сократился"
+    ["url"]=>
+    string(61)  "https://www.ros-net.ru/vypusk-govyadiny-v-velikobritanii-v-fevrale-sokratilsya.html"
+  }
+  [233]=>
+  array(2) {
+    ["text"]=>
+    string(88) "Британские фермеры в поисках новых рынков сбыта"
+    ["url"]=>
+    string(53)  "https://www.ros-net.ru/britanskie-fermemy-v-poiskah-novyh-rynkov-sbyta.html"
+  }
+  [234]=>
+  array(2) {
+    ["text"]=>
+    string(118) "В Приморье имеется существенный рост производства молока и мяса"
+    ["url"]=>
+    string(36)  "https://www.ros-net.ru/rost-moloka-i-myasa-v-primorie.html"
+  }
+  [235]=>
+  array(2) {
+    ["text"]=>
+    string(116) "Бразильских поставщиков мяса обвинили в торговле гнилым мясом "
+    ["url"]=>
+    string(64)  "https://www.ros-net.ru/brazilskoh-postavschikov-obvinili-v-torgovle-gnilym-myasom.html"
+  }
+  [236]=>
+  array(2) {
+    ["text"]=>
+    string(90) "Экспорт оленины с Ямала в страны ЕС возрос в 10 раз"
+    ["url"]=>
+    string(56)  "https://www.ros-net.ru/export-oleniny-s-yamala-v-strany-es-vyros-v-10-raz.html"
+  }
+  [237]=>
+  array(2) {
+    ["text"]=>
+    string(104) "Производство мяса в Рязанской области уменьшилось вдвое"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/proizvodstvo-myasa-v-ryazanskoy-oblasti-umenshilos-vdvoe.html"
+  }
+  [238]=>
+  array(2) {
+    ["text"]=>
+    string(126) "Как отразится скандал по поводу мяса из Бразилии на российском рынке"
+    ["url"]=>
+    string(66)  "https://www.ros-net.ru/kak-otrazitsya-skandal-po-povodu-brazilskogo-myasa-na-rossii.html"
+  }
+  [239]=>
+  array(2) {
+    ["text"]=>
+    string(110) "Камбоджа предупредила о некачественной свинине из Вьетнама"
+    ["url"]=>
+    string(41)  "https://www.ros-net.ru/nekachesvennaya-svinina-iz-vietnama.html"
+  }
+  [240]=>
+  array(2) {
+    ["text"]=>
+    string(121) "В США продолжает увеличиваться поголовье крупного рогатого скота"
+    ["url"]=>
+    string(48)  "https://www.ros-net.ru/usa-prodoljaet-uvelichivat-pogolonie-korov.html"
+  }
+  [241]=>
+  array(2) {
+    ["text"]=>
+    string(108) "Введен запрет на экспорт мяса птицы из нескольких регионов"
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/zapret-na-export-myasa-pticy-iz-neskolkih-regionoiv.html"
+  }
+  [242]=>
+  array(2) {
+    ["text"]=>
+    string(109) "Мираторг экспортирует мясо из России на сумму 0,5 млрд $ за 2 г"
+    ["url"]=>
+    string(79)  "https://www.ros-net.ru/miratorg-exportiruet-myaso-iz-rossii-na-summu-0-5-mlrd-dollarov-za-2-goda.html"
+  }
+  [243]=>
+  array(2) {
+    ["text"]=>
+    string(117) "В Белоруссии введен запрет на ввоз свинины из Иркутской области"
+    ["url"]=>
+    string(69)  "https://www.ros-net.ru/v-belorussii-vveden-zapret-na-vvoz-svininy-iz-irkutskoy-oblasti.html"
+  }
+  [244]=>
+  array(2) {
+    ["text"]=>
+    string(107) "Экспорт мяса из России вырос вдвое за счет азиатских стран"
+    ["url"]=>
+    string(68)  "https://www.ros-net.ru/export-myasa-iz-rossii-vyros-v-2-raza-za-schet-aziatskih-stran.html"
+  }
+  [245]=>
+  array(2) {
+    ["text"]=>
+    string(98) "Минсельхоз намерен поддерживать производство колбас"
+    ["url"]=>
+    string(49)  "https://www.ros-net.ru/minselhoz-podderzhivaet-proizvodstvo-kolbas.html"
+  }
+  [246]=>
+  array(2) {
+    ["text"]=>
+    string(100) "Китай проявил заинтересованность в говядине с Украины"
+    ["url"]=>
+    string(46)  "https://www.ros-net.ru/kitay-zaineresovan-v-govyadine-s-ukrainy.html"
+  }
+  [247]=>
+  array(2) {
+    ["text"]=>
+    string(115) "В Россию запрещен ввоз мяса и молочных продуктов из Белоруссии"
+    ["url"]=>
+    string(55)  "https://www.ros-net.ru/v-rossiyu-zapreschen-vvoz-produktov-iz-belorussii.html"
+  }
+  [248]=>
+  array(2) {
+    ["text"]=>
+    string(116) "Израиль планирует закупки 2,5 000 тонн говядины из Украины в месяц"
+    ["url"]=>
+    string(70)  "https://www.ros-net.ru/izrail-planiruet-zakupku-2500-tonn-govyadiny-iz-ukrainy-v-mesyac.html"
+  }
+  [249]=>
+  array(2) {
+    ["text"]=>
+    string(114) "Минсельхоз Бразилии планирует удвоить товарооборот с Россией"
+    ["url"]=>
+    string(36)  "https://www.ros-net.ru/tovarooborot-brazilii-i-rossii.html"
+  }
+  [250]=>
+  array(2) {
+    ["text"]=>
+    string(84) "Ситуация на рынке мяса в Грузии и рост импорта"
+    ["url"]=>
+    string(26)  "https://www.ros-net.ru/myasnoy-rinok-gruzii.html"
+  }
+  [251]=>
+  array(2) {
+    ["text"]=>
+    string(97) "Когда Крым накормит всю Россию? Прогнозы Минсельхоза"
+    ["url"]=>
+    string(33)  "https://www.ros-net.ru/kogda-krim-nakormit-rossiyu.html"
+  }
+  [252]=>
+  array(2) {
+    ["text"]=>
+    string(92) "Как уральские фермеры продают мясо через Интернет"
+    ["url"]=>
+    string(53)  "https://www.ros-net.ru/uralskie-fermeri-prodayut-myaso-cherez-internet.html"
+  }
+  [253]=>
+  array(2) {
+    ["text"]=>
+    string(92) "Рост производства яиц и мяса в Ростовской области "
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/rost-proizvodstva-yaic-i-myasa-v-rostovskoy-oblasti.html"
+  }
+  [254]=>
+  array(2) {
+    ["text"]=>
+    string(96) "Список лидеров по производству комбикормов в России"
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/spisok-liderov-po-proizvodstvu-kombikormov-v-rossii.html"
+  }
+  [255]=>
+  array(2) {
+    ["text"]=>
+    string(82) "Животноводство в Северном Казахстане растет"
+    ["url"]=>
+    string(50)  "https://www.ros-net.ru/jivotnovodstvo-v-severnom-kazakhstane-rastet.html"
+  }
+  [256]=>
+  array(2) {
+    ["text"]=>
+    string(97) "Обзор зарубежных СМИ о ситуации в сельском хозяйстве"
+    ["url"]=>
+    string(58)  "https://www.ros-net.ru/obzor-zarubejnyh-smi-o-situacii-v-selskom-hozyaystve.html"
+  }
+  [257]=>
+  array(2) {
+    ["text"]=>
+    string(100) "Поставки мяса с 17 предприятий Бразилии приостановлены"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/postavki-myasa-s-17-predpriyatiy-brazilii-priostanovleny.html"
+  }
+  [258]=>
+  array(2) {
+    ["text"]=>
+    string(92) "В России за 1 квартал выросло производство свинины"
+    ["url"]=>
+    string(56)  "https://www.ros-net.ru/v-rossii-za-1-kvartal-vyroslo-proizvodstvo-svininy.html"
+  }
+  [259]=>
+  array(2) {
+    ["text"]=>
+    string(103) "Начало поставок говядины и мяса птицы из России в Японию"
+    ["url"]=>
+    string(67)  "https://www.ros-net.ru/nachalo-postavok-govyadiny-i-myasa-pticy-iz-rossii-v-yaponiyu.html"
+  }
+  [260]=>
+  array(2) {
+    ["text"]=>
+    string(90) "Программа импортозамещения в сельском хозяйстве"
+    ["url"]=>
+    string(55)  "https://www.ros-net.ru/programma-importozamescheniya-v-selskom-hozyastve.html"
+  }
+  [261]=>
+  array(2) {
+    ["text"]=>
+    string(88) "На Ямайке снимут ограничения на импорт говядины"
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/na-yamayke-snimut-ogranicheniya-na-import-govyadiny.html"
+  }
+  [262]=>
+  array(2) {
+    ["text"]=>
+    string(100) "В США повышается спрос на говядину на внутреннем рынке"
+    ["url"]=>
+    string(63)  "https://www.ros-net.ru/v-usa-povyshaetsya-spros-na-govyadinu-na-vnutrennem-rynke.html"
+  }
+  [263]=>
+  array(2) {
+    ["text"]=>
+    string(97) "Свиноводство в Испании показывает значительный рост"
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/svinovodstvo-v-ispanii-pokazyvaet-zhachitelniy-rost.html"
+  }
+  [264]=>
+  array(2) {
+    ["text"]=>
+    string(91) "Экспорт свинины из США в марте 2017 г рекордно вырос"
+    ["url"]=>
+    string(55)  "https://www.ros-net.ru/export-snininy-iz-usa-v-marte-2017-rekordno-vyros.html"
+  }
+  [265]=>
+  array(2) {
+    ["text"]=>
+    string(106) "Америка планирует организовать поставки говядины в Китай"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/america-planiruet-organizovat-postavki-govyadiny-v-kitay.html"
+  }
+  [266]=>
+  array(2) {
+    ["text"]=>
+    string(105) "Чем закончилась колбасная битва брянских мясокомбинатов"
+    ["url"]=>
+    string(48)  "https://www.ros-net.ru/kolbasnaya-bitva-bryanskih-myasokombinatov.html"
+  }
+  [267]=>
+  array(2) {
+    ["text"]=>
+    string(103) "Расценки на мясо будут находиться под жестким контролем"
+    ["url"]=>
+    string(47)  "https://www.ros-net.ru/ceny-na-myaso-budut-pod-jestkim-kontrolem.html"
+  }
+  [268]=>
+  array(2) {
+    ["text"]=>
+    string(89) "Динамика цен на мясо в 2017 году и уровень инфляции"
+    ["url"]=>
+    string(53)  "https://www.ros-net.ru/dinamika-cen-na-myaso-v-2017-i-uroven-inflyacii.html"
+  }
+  [269]=>
+  array(2) {
+    ["text"]=>
+    string(91) "По данным Росстата производство мяса выросло на 5%"
+    ["url"]=>
+    string(54)  "https://www.ros-net.ru/rosstat-proizvodstvo-myasa-vyroslo-na-5procentov.html"
+  }
+  [270]=>
+  array(2) {
+    ["text"]=>
+    string(117) "Конкуренция говядины из Америки и Австралии на поставки в Китай"
+    ["url"]=>
+    string(70)  "https://www.ros-net.ru/konkurenciya-govydiny-iz-ameriki-i-avstralii-na-postavki-v-kitay.html"
+  }
+  [271]=>
+  array(2) {
+    ["text"]=>
+    string(117) "Специалисты Саудовской Аравии проверяют производителей России"
+    ["url"]=>
+    string(75)  "https://www.ros-net.ru/specialisty-iz-saudovskoy-aravii-proveryayut-proizvoditeley-iz-rossii.html"
+  }
+  [272]=>
+  array(2) {
+    ["text"]=>
+    string(91) "Импорт баранины в Евросоюзе значительно снизился"
+    ["url"]=>
+    string(56)  "https://www.ros-net.ru/import-baraniny-v-evrosoyuze-znachitelno-snizilsya.html"
+  }
+  [273]=>
+  array(2) {
+    ["text"]=>
+    string(78) "Цены на говядину в России продолжают расти"
+    ["url"]=>
+    string(51)  "https://www.ros-net.ru/tseny-na-govyadinu-v-rossii-prodoljayut-rasti.html"
+  }
+  [274]=>
+  array(2) {
+    ["text"]=>
+    string(99) "Открытие нового свинокомплекса в Воронежской области"
+    ["url"]=>
+    string(58)  "https://www.ros-net.ru/otkritie-novogo-svinokompleksa-v-voronejskoy-oblasti.html"
+  }
+  [275]=>
+  array(2) {
+    ["text"]=>
+    string(71) "Сколько стоит мясо птицы на самом деле?"
+    ["url"]=>
+    string(44)  "https://www.ros-net.ru/skolko-stoit-myaso-pticy-na-samom-dele.html"
+  }
+  [276]=>
+  array(2) {
+    ["text"]=>
+    string(99) "В Нижегородской области выросло производство свинины"
+    ["url"]=>
+    string(58)  "https://www.ros-net.ru/v-nijegorodskoy-oblasti-vyroslo-proizvodstvo-svininy.html"
+  }
+  [277]=>
+  array(2) {
+    ["text"]=>
+    string(78) "Какова средняя цена баранины в апреле 2017г.?"
+    ["url"]=>
+    string(44)  "https://www.ros-net.ru/srednyaya-tsena-baraniny-v-aprele-2017.html"
+  }
+  [278]=>
+  array(2) {
+    ["text"]=>
+    string(87) "Сколько россиян предпочитает экономить на мясе"
+    ["url"]=>
+    string(40)  "https://www.ros-net.ru/skolko-rossiyan-ekonomyat-na-myase.html"
+  }
+  [279]=>
+  array(2) {
+    ["text"]=>
+    string(92) "Экспорт свинины из США с мая 2017 г. устойчиво растет"
+    ["url"]=>
+    string(34)  "https://www.ros-net.ru/export-svininy-iz-usa-rastet.html"
+  }
+  [280]=>
+  array(2) {
+    ["text"]=>
+    string(76) "Налаживание экспорта зерна и мяса в Сирию"
+    ["url"]=>
+    string(35)  "https://www.ros-net.ru/export-zarna-i-myasa-v-siriyu.html"
+  }
+  [281]=>
+  array(2) {
+    ["text"]=>
+    string(118) "Открытие нового мясоперерабатывающего цеха в Красноярском крае"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/noviy-myasopererabativayuschiy-tseh-v-krasnouarskom-krae.html"
+  }
+  [282]=>
+  array(2) {
+    ["text"]=>
+    string(107) "В Пермском крае фермеры открыли собственный колбасный цех"
+    ["url"]=>
+    string(51)  "https://www.ros-net.ru/v-permskom-krae-fermery-otkrili-kolbasniy-tse.html"
+  }
+  [283]=>
+  array(2) {
+    ["text"]=>
+    string(90) "Россия налаживает экспорт мяса на турецкий рынок"
+    ["url"]=>
+    string(36)  "https://www.ros-net.ru/export-myasa-na-tureckiy-rinok.html"
+  }
+  [284]=>
+  array(2) {
+    ["text"]=>
+    string(104) "Российское мясо планируют поставлять на китайский рынок"
+    ["url"]=>
+    string(63)  "https://www.ros-net.ru/rossiyskoe-myaso-planiruyut-postavlyat-na-kitayskiy-rinok.html"
+  }
+  [285]=>
+  array(2) {
+    ["text"]=>
+    string(89) "В США за последние месяцы растет импорт баранины"
+    ["url"]=>
+    string(35)  "https://www.ros-net.ru/in-usa-rastet-import-baraniny.html"
+  }
+  [286]=>
+  array(2) {
+    ["text"]=>
+    string(101) "В России растет производство мяса и уменьшается импорт"
+    ["url"]=>
+    string(62)  "https://www.ros-net.ru/v-rossii-rastet-proizvodstvo-myasa-i-umenshaetsya-import.html"
+  }
+  [287]=>
+  array(2) {
+    ["text"]=>
+    string(96) "Потребительский спрос на говядину в ЕС разнообразен"
+    ["url"]=>
+    string(57)  "https://www.ros-net.ru/potrebitelskiy-spros-na-govyadinu-v-es-raznoobrazen.html"
+  }
+  [288]=>
+  array(2) {
+    ["text"]=>
+    string(72) "Цены на свинину на мировом рынке растут"
+    ["url"]=>
+    string(46)  "https://www.ros-net.ru/tseny-na-svininu-na-mirovom-rinke-rastut.html"
+  }
+  [289]=>
+  array(2) {
+    ["text"]=>
+    string(99) "Как изменятся объемы производства мяса в США в 2017 году"
+    ["url"]=>
+    string(60)  "https://www.ros-net.ru/kak-izmenyatsya-obyomy-proizvodstva-myasa-v-usa-v-2017.html"
+  }
+  [290]=>
+  array(2) {
+    ["text"]=>
+    string(86) "В Ирландии за 2017 год вырос экспорт живого скота"
+    ["url"]=>
+    string(50)  "https://www.ros-net.ru/v-irlandii-vyros-export-zhivogo-skota-v-2017.html"
+  }
+  [291]=>
+  array(2) {
+    ["text"]=>
+    string(98) "Обзор мирового мясного рынка. Цены, тенденции, объемы."
+    ["url"]=>
+    string(35)  "https://www.ros-net.ru/obzor-mirovogo-myasnogo-rynka.html"
+  }
+  [292]=>
+  array(2) {
+    ["text"]=>
+    string(77) "Стоимость мяса в Канаде вырастет в 2017 году"
+    ["url"]=>
+    string(50)  "https://www.ros-net.ru/stoimost-myasa-v-kanade-vyrastet-v-2017-godu.html"
+  }
+  [293]=>
+  array(2) {
+    ["text"]=>
+    string(101) "В России очень мало потребляют мяса - глава «Черкизово»"
+    ["url"]=>
+    string(44)  "https://www.ros-net.ru/v-rossii-ochen-malo-potreblyayut-myasa.html"
+  }
+  [294]=>
+  array(2) {
+    ["text"]=>
+    string(115) "В Евросоюзе падает спрос на свежую свинину на внутреннем рынке"
+    ["url"]=>
+    string(50)  "https://www.ros-net.ru/v-evrosoyuze-padaet-spros-na-svejuyu-svininu.html"
+  }
+  [295]=>
+  array(2) {
+    ["text"]=>
+    string(103) "На Дону наблюдается снижение производства мяса и молока"
+    ["url"]=>
+    string(52)  "https://www.ros-net.ru/na-donu-snijaetsya-proizvodstvo-myasa-i-moloka.html"
+  }
+  [296]=>
+  array(2) {
+    ["text"]=>
+    string(110) "США отказались от закупки бразильского мяса. Чем это грозит?"
+    ["url"]=>
+    string(48)  "https://www.ros-net.ru/usa-otkazalis-ot-zakupki-brazilskogo-myasa.html"
+  }
+}
