@@ -1,1 +1,1 @@
-Парсер для контента новостей с сайта https://www.ros-net.ru/
+Парсер для контента новостей с сайта https://www.ros-net.ru/ c использованием phpQuery (https://github.com/phpquery/phpquery.git)
