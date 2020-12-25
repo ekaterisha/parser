@@ -68,5 +68,17 @@ fclose($fp);
 
 phpQuery::unloadDocuments();
 
+// для раскодировки названий картинок
+    // $x = scandir('C:\OpenServer\OSPanel\domains\parser.loc\files'); 
+    // chdir('C:\OpenServer\OSPanel\domains\parser.loc\files');
+    // foreach ($x as $key => $value) {
+    //         if ('.' !== $value && '..' !== $value){
+                
+    //                rename($value, urldecode($value));
+    //                echo urldecode($value)."<br>"
+    //                ;
+    //    }
+    // }
+
 
 ?>
