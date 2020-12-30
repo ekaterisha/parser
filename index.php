@@ -29,7 +29,7 @@ foreach($links as $link){
     $test = file_get_contents($url);
     $dom_test = phpQuery::newDocument($test);
     $one = pq("#page-container");
-
+// vardump($one->find("img::firstChild")->attr('src')); die(); // для выгрузки первой картинки
     $tmp[] = array(
         "name" => $link->text(),
         "url"  =>  $url,
